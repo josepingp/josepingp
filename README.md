@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josepin</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-- 🔭 I’m currently working on [Yogini Nana Shop](https://github.com/josepingp/tienda)
+- 🔭 I’m currently working on [Yogini Nana Shop](https://github.com/josepingp/YOGINI_NANA_SHOP)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
